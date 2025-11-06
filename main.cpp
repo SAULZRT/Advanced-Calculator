@@ -57,7 +57,8 @@ int main() {
 			std::cin.clear();
 			std::cin.get();
 		
-			main();//no podemos llamar a main dentro del main lo puse para que se vea la logica.
+			//main();no podemos llamar a main dentro del main lo puse para que se vea la logica.
+			//continue; <- esto si
 		
 		}
 
